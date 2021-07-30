@@ -233,6 +233,7 @@ HEADER CSS
   left: 50%;
   transform: translate(-50%, -50%);
   text-align: center;
+  overflow: hidden;
 }
 .banner > h1 {
   font-family: var(--ff-secondary);
